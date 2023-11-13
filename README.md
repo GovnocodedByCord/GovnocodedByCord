@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GovnocodedByCord
-- 🌱 I’m currently learning lua, js
+- 🌱 I’m currently learning lua, с++
 - 📫 How to reach me - tg: cordhere
 
 <!---
