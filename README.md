@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GovnocodedByCord
+- 👋 Hi, I’m cord
 - 🌱 I’m currently learning lua, с++
 - 📫 How to reach me - tg: cordhere
 
